@@ -1,0 +1,6 @@
+export enum StatusType {
+    NOT_AUTHENTICATED,
+    CHECKING,
+    AUTHENTICATED,
+    NOT_REGISTERED
+}
